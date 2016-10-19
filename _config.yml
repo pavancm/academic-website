@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://www.andrew.cmu.edu/user/kluckow"
-baseurl: ""
+baseurl: "/user/kluckow"
 #
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -24,7 +24,7 @@ description: Academic website
 # List of links in the navigation bar
 navbar-links:
   # Links: "links"
-  Home: "index"
+  Home: ""
   Publications: "publications"
   Projects: "projects"
   Contact: "contact"
@@ -42,7 +42,7 @@ avatar: "/img/profilepic.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: kasper Luckow
+  name: Kasper Luckow
   email: "kasper.luckow@sv.cmu.edu"
   facebook: kasper.luckow  # eg. daattali
   github: ksluckow    # eg. daattali
@@ -184,7 +184,7 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 scholar:
-  style: mla
+  style: apa
   locale: en
 
   sort_by: none
