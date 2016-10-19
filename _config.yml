@@ -4,9 +4,9 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.andrew.cmu.edu"
-baseurl: "user/kluckow"
-
+url: "http://www.andrew.cmu.edu/user/kluckow"
+baseurl: ""
+#
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -23,11 +23,11 @@ description: Academic website
 
 # List of links in the navigation bar
 navbar-links:
-  About / Contact: "aboutme"
-  Projects: "projects"
+  # Links: "links"
+  Home: "index"
   Publications: "publications"
-  Links: "links"
-  Home: "https://www.andrew.cmu.edu/user/kluckow/"
+  Projects: "projects"
+  Contact: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -35,7 +35,7 @@ navbar-links:
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/profile2.jpg"
+avatar: "/img/profilepic.jpg"
 
 # --- Footer options --- #
 
@@ -81,14 +81,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Personal CMU website"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: ""  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-50968719-2"
 
 # Facebook App ID
 # fb_app_id: ""
@@ -183,8 +183,38 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
+scholar:
+  style: mla
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  group_by: none
+  group_order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: "{{reference}}"
+
+  replace_strings: true
+  join_strings:    true
+
+  use_raw_bibtex_entry: true
+  bibtex_filters:
+  - superscript
+  - latex
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"
+
 gems:
   - jekyll-paginate
+  - jekyll/scholar
+
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
