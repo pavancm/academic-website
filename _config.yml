@@ -5,8 +5,10 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://www.andrew.cmu.edu/user/kluckow"
+#baseurl: ""
+# User this for cmu hosting
 baseurl: "/user/kluckow"
-#
+
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -27,7 +29,7 @@ navbar-links:
   Home: ""
   Publications: "publications"
   Projects: "projects"
-  Contact: "contact"
+  #  Contact: "contact"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -210,6 +212,9 @@ scholar:
   details_link:   Details
 
   query: "@*"
+
+  # This is where the refs/pubs are when using {% cite %}
+  relative: "/publications"
 
 gems:
   - jekyll-paginate
