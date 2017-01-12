@@ -6,6 +6,10 @@ subtitle:
 
 I will try to keep the following list of publications up to date. Also, have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=RnfTeq8AAAAJ) and [DBLP record](http://dblp.uni-trier.de/pers/hd/l/Luckow:Kasper_S=oslash=e).
 
+### 2017
+
+{% bibliography --query @*[year=2017] %}
+
 ### 2016
 
 {% bibliography --query @*[year=2016] %}
