@@ -5,8 +5,9 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://www.andrew.cmu.edu/user/kluckow"
+# Use following baseurl for local hosting
 #baseurl: ""
-# User this for cmu hosting
+# Use this for cmu hosting
 baseurl: "/user/kluckow"
 
 # If you are building a GitHub project page then use these settings:
@@ -197,7 +198,7 @@ scholar:
 
   source: ./_bibliography
   bibliography: references.bib
-  bibliography_template: "{{reference}}"
+  bibliography_template: bibtemplate
 
   replace_strings: true
   join_strings:    true
@@ -207,8 +208,8 @@ scholar:
   - superscript
   - latex
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
+  details_dir:    bibtex
+  #details_layout: bibtex.html
   details_link:   Details
 
   query: "@*"
