@@ -187,8 +187,10 @@ prose:
           help: "Check to publish post, uncheck to hide."
 
 scholar:
+  style: apa
   # style: mla
-  style: chicago-fullnote-bibliography
+  # style: acm-sig-proceedings
+  # style: chicago-fullnote-bibliography
   locale: en
 
   sort_by: none
