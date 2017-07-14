@@ -123,9 +123,8 @@ exclude:
 scholar:
   style: apa
 
-  # style: mla
-  # style: acm-sig-proceedings
-  # style: chicago-fullnote-bibliography
+  # style: acm-siggraph
+  #  style: apa-5th-edition
   locale: en
 
   sort_by: none
