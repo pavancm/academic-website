@@ -176,9 +176,10 @@ scholar:
   # This is where the refs/pubs are when using {% cite %}
   relative: "/publications"
 
-plugins:
+gems:
     #  - jekyll-paginate
   - jekyll/scholar
+  - jekyll-seo-tag
 
 
 # Beautiful Jekyll / Dean Attali
