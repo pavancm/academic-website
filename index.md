@@ -13,6 +13,7 @@ the Stitched Image Quality Evaluator (SIQE) by devising statistical features usi
 The goal of this study was to characterize the distortions that arise during the process of stitching and quantify them based on human perception. The IISc Stitched Image Quality Assessment (ISIQA) Database contains 264 stitched images obtained from multiple stitching algorithms from 26 different scenes. Each scene consists of around 5 images captured from differing viewpoints and having overlapping regions between them. Quality of stitched image is affected by the choice of the stitching algorithm. The images were evaluated by 35 subjects by viewing them on a Virtual Reality HMD to obtain human opinion scores.
 
 Details of the content, design of the database and processing of human opinion scores can be found in:
+
 P. C. Madhusudana and R. Soundararajan, "Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality", June 2018.
 
 ### Database Download
@@ -28,6 +29,7 @@ Please fill [THIS](https://goo.gl/forms/9ghT7Vu9pThhlNo93) form and the password
 We are releasing the MATLAB implementation of SIQE. The codes can be downloaded [HERE](https://github.com/pavancm/Stitched-Image-Quality-Evaluator)
 
 If you use the database or software in your research, we kindly ask that you reference our paper:
+
 P. C. Madhusudana and R. Soundararajan, "Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality", June 2018 
 
 Please contact Pavan (pavan.madhusudana@gmail.com) if you have any questions.
