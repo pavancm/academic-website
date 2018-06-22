@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Hi, I'm Kasper
+layout: layout
+title: Stitched Image Quality Assessment
 subtitle: Postdoc at CMU / Software Engineer / and more
 ---
 
