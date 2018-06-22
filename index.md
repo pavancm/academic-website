@@ -3,7 +3,7 @@ layout: minimal
 title: Stitched Image Quality Assessment
 subtitle: Postdoc at CMU / Software Engineer / and more
 ---
-
+#### Quality Assessment of Stitched Images
 I'm a postdoctoral researcher at Carnegie Mellon University, Silicon Valley, currently researching for the Integrated Symbolic Execution for Space-Time Analysis of Code (ISSTAC) project, which is funded by [DARPA STAC](http://www.darpa.mil/program/space-time-analysis-for-cybersecurity). I also worked on a NASA project on safety analysis of flight critical systems. My current focus is on identifying algorithmic complexity vulnerabilities using symbolic execution with heuristic exploration.
 
 ### Research Interests
@@ -23,10 +23,4 @@ In 2013, I was a visiting researcher at [NASA Ames Research Center](https://www.
 
 ### Contact
 Email (preferred): [kasper.luckow@sv.cmu.edu](mailto:kasper.luckow@sv.cmu.edu)  
-Phone: (650) 335-2889
-
-**Kasper Søe Luckow**  
-NASA Research Park  
-Building 19, Room 1006  
-Moffett Field, CA 94035  
 
