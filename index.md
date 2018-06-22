@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: minimal
 title: Stitched Image Quality Assessment
 subtitle: Postdoc at CMU / Software Engineer / and more
 ---
