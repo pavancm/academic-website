@@ -3,7 +3,7 @@ layout: minimal
 title: Stitched Image Quality Assessment
 subtitle: Postdoc at CMU / Software Engineer / and more
 ---
-### Quality Assessment of Stitched Images
+# Quality Assessment of Stitched Images
 I'm a postdoctoral researcher at Carnegie Mellon University, Silicon Valley, currently researching for the Integrated Symbolic Execution for Space-Time Analysis of Code (ISSTAC) project, which is funded by [DARPA STAC](http://www.darpa.mil/program/space-time-analysis-for-cybersecurity). I also worked on a NASA project on safety analysis of flight critical systems. My current focus is on identifying algorithmic complexity vulnerabilities using symbolic execution with heuristic exploration.
 
 ### Research Interests
