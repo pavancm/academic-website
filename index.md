@@ -13,6 +13,16 @@ the Stitched Image Quality Evaluator (SIQE) by devising statistical features usi
 
 ![im-25](https://github.com/pavancm/stitched-qa/blob/master/img/25.jpg?raw=true "MOS - 53.89") ![im-38](https://github.com/pavancm/stitched-qa/blob/master/img/38.jpg?raw=true "MOS - 22.40")
 
+![im-46](https://github.com/pavancm/stitched-qa/blob/master/img/46.jpg?raw=true "MOS - 34.11") ![im-59](https://github.com/pavancm/stitched-qa/blob/master/img/59.jpg?raw=true "MOS - 52.59")
+
+![im-67](https://github.com/pavancm/stitched-qa/blob/master/img/67.jpg?raw=true "MOS - 67.32") ![im-81](https://github.com/pavancm/stitched-qa/blob/master/img/81.jpg?raw=true "MOS - 33.33")
+
+![im-89](https://github.com/pavancm/stitched-qa/blob/master/img/89.jpg?raw=true "MOS - 63.07") ![im-100](https://github.com/pavancm/stitched-qa/blob/master/img/100.jpg?raw=true "MOS - 29.9")
+
+![im-108](https://github.com/pavancm/stitched-qa/blob/master/img/108.jpg?raw=true "MOS - 55.06") ![im-114](https://github.com/pavancm/stitched-qa/blob/master/img/114.jpg?raw=true "MOS - 56.87")
+
+![im-124](https://github.com/pavancm/stitched-qa/blob/master/img/124.jpg?raw=true "MOS - 59.74") ![im-136](https://github.com/pavancm/stitched-qa/blob/master/img/136.jpg?raw=true "MOS - 63.76")
+
 ### Database Description
 The goal of this study was to characterize the distortions that arise during the process of stitching and quantify them based on human perception. The IISc Stitched Image Quality Assessment (ISIQA) Database contains 264 stitched images obtained from multiple stitching algorithms from 26 different scenes. Each scene consists of around 5 images captured from differing viewpoints and having overlapping regions between them. Quality of stitched image is affected by the choice of the stitching algorithm. The images were evaluated by 35 subjects by viewing them on a Virtual Reality HMD to obtain human opinion scores.
 
