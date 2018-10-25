@@ -23,6 +23,18 @@ the Stitched Image Quality Evaluator (SIQE) by devising statistical features usi
 
 ![im-124](https://github.com/pavancm/stitched-qa/blob/master/img/124.jpg?raw=true "MOS - 59.74") ![im-136](https://github.com/pavancm/stitched-qa/blob/master/img/136.jpg?raw=true "MOS - 63.76")
 
+![im-144](https://github.com/pavancm/stitched-qa/blob/master/img/144.jpg?raw=true "MOS - 58.33") ![im-157](https://github.com/pavancm/stitched-qa/blob/master/img/157.jpg?raw=true "MOS - 67.27")
+
+![im-164](https://github.com/pavancm/stitched-qa/blob/master/img/164.jpg?raw=true "MOS - 65.55") ![im-172](https://github.com/pavancm/stitched-qa/blob/master/img/172.jpg?raw=true "MOS - 63.68")
+
+![im-181](https://github.com/pavancm/stitched-qa/blob/master/img/181.jpg?raw=true "MOS - 41.18") ![im-136](https://github.com/pavancm/stitched-qa/blob/master/img/198.jpg?raw=true "MOS - 53.50")
+
+![im-206](https://github.com/pavancm/stitched-qa/blob/master/img/206.jpg?raw=true "MOS - 53.92") ![im-215](https://github.com/pavancm/stitched-qa/blob/master/img/215.jpg?raw=true "MOS - 57.71")
+
+![im-226](https://github.com/pavancm/stitched-qa/blob/master/img/226.jpg?raw=true "MOS - 21.23") ![im-235](https://github.com/pavancm/stitched-qa/blob/master/img/235.jpg?raw=true "MOS - 59.44")
+
+![im-250](https://github.com/pavancm/stitched-qa/blob/master/img/250.jpg?raw=true "MOS - 36.33") ![im-263](https://github.com/pavancm/stitched-qa/blob/master/img/263.jpg?raw=true "MOS - 70.32")
+
 ### Database Description
 The goal of this study was to characterize the distortions that arise during the process of stitching and quantify them based on human perception. The IISc Stitched Image Quality Assessment (ISIQA) Database contains 264 stitched images obtained from multiple stitching algorithms from 26 different scenes. Each scene consists of around 5 images captured from differing viewpoints and having overlapping regions between them. Quality of stitched image is affected by the choice of the stitching algorithm. The images were evaluated by 35 subjects by viewing them on a Virtual Reality HMD to obtain human opinion scores.
 
