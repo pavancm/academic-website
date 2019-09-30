@@ -41,7 +41,7 @@ The goal of this study was to characterize the distortions that arise during the
 
 Details of the content, design of the database and processing of human opinion scores can be found in:
 
-P. C. Madhusudana and R. Soundararajan, "Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality", Transactions in Image Processing, submitted June 2018.
+Madhusudana, P.C. and Soundararajan, R., 2019. Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality. IEEE Transactions on Image Processing, 28(11), pp.5620-5635.
 
 ### Database Download
 We are making the ISIQA Database available to the research community free of charge. The database can be downloaded [HERE](http://ece.iisc.ac.in/~rajivs/databases/isiqa_release.zip). The database file isiqa_release.zip containes 2 folders and a text file.
@@ -57,7 +57,7 @@ We are releasing the MATLAB implementation of SIQE. The codes can be downloaded 
 
 If you use the database or software in your research, we kindly ask that you reference our paper:
 
-P. C. Madhusudana and R. Soundararajan, "Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality", Transactions in Image Processing, submitted June 2018.
+Madhusudana, P.C. and Soundararajan, R., 2019. Subjective and Objective Quality Assessment of Stitched Images for Virtual Reality. IEEE Transactions on Image Processing, 28(11), pp.5620-5635.
 
 Please contact Pavan (pavan.madhusudana@gmail.com) if you have any questions.
 
